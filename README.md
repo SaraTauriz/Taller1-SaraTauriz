@@ -1,1 +1,3 @@
-# Taller1-SaraTauriz
+# Taller1
+Sara Ivette Tauriz Solórzano
+Quinto "B"
